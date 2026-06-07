@@ -1,51 +1,85 @@
 # Startup Investment Analysis
 
-## Project Overview
+## Описание проекта
 
-This project analyzes startup investment activity and venture capital market trends based on historical funding data.
+Проект посвящён исследовательскому анализу инвестиционной активности стартапов и тенденций венчурного рынка.
 
-The study focuses on identifying market segments that attract the largest amount of investments, evaluating funding dynamics over time, comparing financing types, and analyzing investment return patterns.
+В рамках проекта были изучены объёмы финансирования, динамика инвестиционной активности, особенности различных типов инвестиций и наиболее привлекательные сегменты рынка для вложений.
 
-The objective is to identify promising sectors and financing strategies that demonstrate sustainable growth and high investment activity.
+Цель исследования — выявить перспективные направления инвестирования и определить сегменты, демонстрирующие устойчивый рост и высокий уровень инвестиционной активности.
 
 ---
 
-## Tools
+## Цель проекта
+
+Определить:
+
+- какие сегменты рынка привлекают наибольший объём инвестиций;
+- как изменялась инвестиционная активность с течением времени;
+- какие типы финансирования наиболее распространены;
+- какие сегменты демонстрируют наиболее высокие темпы роста;
+- какие направления являются наиболее привлекательными для инвесторов.
+
+---
+
+## Используемые технологии
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Jupyter Notebook
 
 ---
 
-## Project Tasks
+## Выполненные задачи
 
-- Data preprocessing and cleaning
-- Exploratory Data Analysis (EDA)
-- Startup segmentation
-- Investment volume analysis
-- Funding type analysis
-- Market trend analysis
-- Investment return analysis
-- Business recommendations
+### Подготовка данных
+
+- Исследование структуры данных.
+- Обработка пропущенных значений.
+- Очистка и подготовка данных к анализу.
+
+### Исследовательский анализ данных (EDA)
+
+- Анализ распределения инвестиций.
+- Изучение структуры рынка стартапов.
+- Сегментация компаний по направлениям деятельности.
+- Анализ объёмов финансирования.
+
+### Анализ инвестиционной активности
+
+- Исследование динамики инвестиций по годам.
+- Анализ различных типов финансирования.
+- Оценка инвестиционной активности в различных сегментах рынка.
+
+### Анализ эффективности инвестиций
+
+- Исследование показателей возврата инвестиций.
+- Сравнение различных типов финансирования.
+- Выявление наиболее устойчивых инвестиционных стратегий.
 
 ---
 
-## Key Results
+## Основные результаты
 
-- Venture financing attracted the largest share of investments and remained the dominant funding type throughout the analyzed period.
-- The startup market demonstrated a highly uneven distribution, where a small number of segments accumulated the majority of companies and investments.
-- Internet, Real Estate, Entertainment, Photography, and Startup-related sectors showed the strongest funding growth dynamics.
-- Investment activity increased significantly between 2004 and 2013, followed by a decline in the number of funding rounds.
-- Venture capital demonstrated the most stable return dynamics among major financing types.
+- Венчурное финансирование привлекало наибольшую долю инвестиций и оставалось основным источником финансирования на протяжении всего исследуемого периода.
+- Рынок стартапов характеризуется высокой концентрацией инвестиций: небольшое количество сегментов аккумулирует основную часть капитала.
+- Наиболее высокие темпы роста финансирования показали сегменты:
+  - Internet
+  - Real Estate
+  - Entertainment
+  - Photography
+  - Startups
+- Пик инвестиционной активности пришёлся на период с 2004 по 2013 год.
+- Венчурный капитал продемонстрировал наиболее стабильную динамику инвестиционной доходности среди основных типов финансирования.
 
 ---
 
-## Business Recommendations
+## Бизнес-рекомендации
 
-Based on the analysis, the following segments appear to be the most attractive for future investment:
+На основании проведённого анализа наиболее перспективными направлениями для инвестирования являются:
 
 - Internet
 - Real Estate
@@ -53,10 +87,31 @@ Based on the analysis, the following segments appear to be the most attractive f
 - Photography
 - Startups
 
-These sectors combine high funding volumes with sustainable growth trends.
+Данные сегменты сочетают высокий объём привлечённого капитала и устойчивую положительную динамику развития.
 
 ---
 
-## Project Files
+## Полученные навыки
 
-- `startup_investment_analysis.ipynb` — complete analytical notebook
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Segmentation
+- Trend Analysis
+- Investment Analysis
+- Business Analytics
+- Data Visualization
+- Python
+- Pandas
+
+---
+
+## Файлы проекта
+
+- `startup_investment_analysis.ipynb` — аналитическое исследование и визуализация данных.
+- `README.md` — описание проекта.
+
+---
+
+## Автор
+
+Артемий Ильин
