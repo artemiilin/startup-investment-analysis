@@ -1,4 +1,4 @@
-# Startup Investment Analysis
+# Исследование стартапов
 
 ## Описание проекта
 
